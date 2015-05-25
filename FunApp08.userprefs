@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="FunApp08\FunApp08.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+    <Files>
+      <File FileName="Droid\MainActivity.cs" Line="10" Column="13" />
+      <File FileName="FunApp08\FunApp08.cs" Line="20" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FunApp08" expanded="True" selected="True">
+            <Node name="FunApp08" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+            <Node name="FunApp08.Droid" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+            </Node>
+            <Node name="FunApp08.UITests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FunApp08.Droid />
+</Properties>

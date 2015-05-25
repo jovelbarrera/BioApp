@@ -1,0 +1,9 @@
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\FunApp08.UITests.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\FunApp08.UITests.pdb
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\nunit.framework.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\bin\Debug\nunit.framework.xml
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\obj\Debug\BioApp.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\obj\Debug\FunApp08.UITests.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\UITests\obj\Debug\FunApp08.UITests.pdb

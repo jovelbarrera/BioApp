@@ -1,0 +1,12 @@
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\FunApp08.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\FunApp08.pdb
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\obj\Debug\FunApp.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\obj\Debug\FunApp08.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\obj\Debug\FunApp08.pdb
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Roberto\Documents\Projects\FunApp08\FunApp08\bin\Debug\Newtonsoft.Json.xml
